@@ -15,7 +15,7 @@ body {
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  border: 2px solid steelblue;
   padding: 30px;
   border-radius: 5px;
 }
@@ -88,6 +88,7 @@ body {
   height: 40px;
   margin: 5px;
   padding: 3px 7px;
+  font-family: inherit;
   font-size: 17px;
 }
 
